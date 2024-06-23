@@ -1,8 +1,8 @@
 <p>
-  🇬🇧 - A Brazilian full-stack developer passionate about learning and developing simple solutions to complex problems, 
-  a phrase that I carry with me: "No problem is as big as my desire to solve it"
+  🇬🇧 - Tired of tweaking your JS development environment for every project? With this repository you have linter (BiomeJS) and prettier configured to use in your projects as you wish
 
-🇧🇷 - Um desenvolvedor full-stack Brasileiro apaixonado por aprender e desenvolver soluções simples para problemas complexos,
-uma frase que carrego comigo: “Nenhum problema é tão grande quanto a minha vontade de resolvê-lo”
+🇧🇷 - Cansado de ajustar seu ambiente de desenvolvimento JS a cada projeto? com esse repositório clonado em sua máquina, você tem linter (BiomeJS) e prettier configurados para usar em seus projetos como desejar
 
 </p>
+
+<pre> a</pre>
